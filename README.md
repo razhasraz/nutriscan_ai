@@ -1,0 +1,2 @@
+# nutriscan_ai
+This is a Real-Time Camera Food Recognition &amp; Nutritional Intelligence
